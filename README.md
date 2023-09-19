@@ -7,11 +7,11 @@ Homebound is a short game about a raccoon that has been separated from their fam
 The game has a low-poly aesthetic with a soft and warm colour palette. It draws inspiration from games such as "Stray" and "Firewatch" for both the look and feel.
 
 <p align="center">
-  <img height="300" alt="Screenshot 2022-12-16 at 08 31 58" src="https://github.com/dsy17/homebound/assets/127321145/58d991fe-b68a-450c-a3a0-45b4d29de668">
+  <img height="300" src="https://github.com/dsy17/Homebound/assets/127321145/521c7ca1-0cc0-4171-9465-dfaee94b3714">
 <p/>
 
 I modelled the character/raccoon model myself in Blender for this project, along with making the texture map.
 
 <p align="center">
-  <img height="300" alt="Screenshot 2022-11-07 at 21 05 54" src="https://github.com/dsy17/homebound/assets/127321145/5e02ef2e-18c4-48ff-99c7-81479fd954ff">
+  <img height="300" src="https://github.com/dsy17/Homebound/assets/127321145/7b17df31-b47c-475f-81f3-11d9d8985a98">
 <p/>
