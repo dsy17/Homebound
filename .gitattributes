@@ -1,3 +1,4 @@
 *.meta linguist-detectable=false
 *.shader linguist-detectable=false
 *.prefab linguist-detectable=false
+*.hlsl linguist-detectable=false
