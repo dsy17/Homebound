@@ -1,5 +1,5 @@
 # Homebound
-A game about a raccoon trying to find his way back home. Made with Unity.
+A game about a raccoon trying to find his way back home. Made with Unity and C#.
 
 ### Overview:
 Homebound is a short game about a raccoon that has been separated from their family and is searching for their way back home. Along the way, they encounter friendly NPCs that provide helpful hints, enemies that pursue the player and deal damage, and consumables that boost health. Ultimately, you must find your way out of the woodlands, overcome its challenges and reunite with your family.
