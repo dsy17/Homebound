@@ -2,3 +2,4 @@
 *.shader linguist-detectable=false
 *.prefab linguist-detectable=false
 *.hlsl linguist-detectable=false
+*.mat linguist-detectable=false
